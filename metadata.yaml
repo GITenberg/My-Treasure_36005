@@ -1,0 +1,37 @@
+_repo: My-Treasure_36005
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+covers:
+- cover_type: archival
+  image_path: 36005-h/images/cover_lg.jpg
+creator:
+  editor:
+    agent_name: Handford, Thomas W.
+    alias: Elmo
+    gutenberg_agent_id: '38027'
+    url: http://www.gutenberg.org/2009/agents/38027
+description: Some illustrations by Kate Greenaway.
+gutenberg_issued: '2011-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: My Treasure
+url: http://www.gutenberg.org/ebooks/36005
